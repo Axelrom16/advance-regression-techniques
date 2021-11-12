@@ -1,2 +1,4 @@
-# advance-regression-techniques
-Advanced regression techniques for the House Prices dataset from Kaggle
+# House Prices - Advanced Regression Techniques
+
+### Dataset 
+House Prices dataset from the Kaggle competition [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).   
